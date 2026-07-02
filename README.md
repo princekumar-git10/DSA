@@ -99,10 +99,8 @@ Each folder contains:
 
 # 📊 LeetCode Profile
 
-Replace this link with your profile.
-
 ```
-https://leetcode.com/your_username/
+https://leetcode.com/u/princekumar-git10/
 ```
 
 ---
@@ -114,9 +112,9 @@ GitHub:
 https://github.com/princekumar-git10
 ```
 
-LeetCode:
+Linkedin:
 ```
-https://leetcode.com/your_username/
+https://www.linkedin.com/in/prince-kumar-981a19364/
 ```
 
 ---
